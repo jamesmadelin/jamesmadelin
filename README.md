@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesmadelin
 - 👀 I’m interested in a lot of things... principally finding business development roles in tech companies worldwide remote or Geneva/Lausanne/Fribourg, and algorithmic derivatives trading.
-- 🌱 I’m currently learning how to improve my EasyLanguage (Tradestation and MultiCharts) coding, algo robustness and provisioning AWS for a trading VM.
+- 🌱 I systematically algo trade using EasyLanguage (Tradestation and MultiCharts) code and am constantly testing algo robustness.
 - 💞️ Please get in touch if you're based in Geneva, Lausanne or Suisse Romande with similar expertise.
 - 📫 Reach me via www.JamesMadelin.com
 
